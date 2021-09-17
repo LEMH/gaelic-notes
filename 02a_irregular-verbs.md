@@ -1,5 +1,12 @@
 # Irregular Verbs
 
+<!-- Accents ------------------------------------->
+<!-- &agrave;
+     &egrave;
+     &igrave;
+     &ograve;
+     &ugrave; -->
+
 ## Faigh - to get (irregular)
 
 ### Past tense
@@ -8,8 +15,8 @@
 
 |        |                        |
 | ------ | ---------------------- |
-| Fhuair mi peata `ur | I got a new pet |
-| Cha d' fhuair mi peata `ur. | I didn't get a new pet. |
-| An d' fhuair thu peata `ur? | Did you get a new pet? |
-| Nach d' fhuair thu peata `ur? | Didn't you get a new pet? |
+| Fhuair mi peata &ugrave;r | I got a new pet |
+| Cha d' fhuair mi peata &ugrave;r. | I didn't get a new pet. |
+| An d' fhuair thu peata &ugrave;r? | Did you get a new pet? |
+| Nach d' fhuair thu peata &ugrave;r? | Didn't you get a new pet? |
 

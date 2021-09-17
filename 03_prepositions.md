@@ -1,5 +1,12 @@
 # Prepositions
 
+<!-- Accents ------------------------------------->
+<!-- &agrave;
+     &egrave;
+     &igrave;
+     &ograve;
+     &ugrave; -->
+
 ## aig - at someone
 
 |        |                        |
