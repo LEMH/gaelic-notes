@@ -1,0 +1,12 @@
+---
+title:
+- type: main
+  text: Gaidhlig Notes
+creator:
+- role: author
+  text: Lisa Hopcroft
+description: Accumulated Scottish Gaelic notes from various sources
+language: en-UK
+stylesheet: epub.css
+cover-image: img/cover.png
+...
