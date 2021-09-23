@@ -6,6 +6,9 @@ Ratharsair - Raasay
 Hiort - St Kilda
 &Egrave;irisgeidh - Eriskay 
 
+## Things
+
+f&ograve;n-l&agrave;imhe - mobile phone
 ## Animals
 
 |        | m/f | plural |                   |
