@@ -23,4 +23,19 @@
 - **Na put am putan m&ograve;r dearg.** Don't push the big read button.
 - **Chan fheum mi meur-chl&agrave;r. Tha tablaid agam.** I don't need a keyboard. I have a tablet.
 
+## STAGE 4: Cooking
+
+- **Cuir beagan uisge ann** Put a little water *in* it
+- **Cuir &igrave;m air** Put butter *on* it
+- **B' fhe&agrave;rr leam tiops** I would prefer chips
+- **Cha bhi mi ag ithe mairtfhe&ograve;il** I don't eat beef
+
+pronn - mashed
+bruich - cooked
+
+Mairtfheòil - beef
+uanfheòil - lamb
+muicfheòil - pork
+
+glasraichear - vegetarian
 
